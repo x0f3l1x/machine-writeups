@@ -1,4 +1,5 @@
 **Introducción**
+
 Se trata de una maquina de nivel fácil de la plataforma Tryhackme, iré haciendo un recorrido paso a paso por cada reto y resolución que se vaya planteando. Mi sistema para resolverlo es un entorno virtual con Kali Linux. La maquina de por si ofrece varias tareas a resolver, desplegar la maquina vulnerable, enumerar samba para tomar acciones, acceder inicialmente con ProFtpd y por último escalada de privilegios con manipulación de variación de ruta.
 *Si durante el writeup la IP objetivo cambia, es porque este ejercicio se llevo a cabo en jornadas diferentes*
 
