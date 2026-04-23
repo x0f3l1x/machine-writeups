@@ -1,5 +1,7 @@
 **Introducción**
 
+<img width="128" height="128" alt="OcA2KrK" src="https://github.com/user-attachments/assets/148af5e5-d86a-4ee6-943a-32dd149e25b7" />
+
 Se trata de una maquina de nivel fácil de la plataforma Tryhackme, iré haciendo un recorrido paso a paso por cada reto y resolución que se vaya planteando. Mi sistema para resolverlo es un entorno virtual con Kali Linux. La maquina de por si ofrece varias tareas a resolver, desplegar la maquina vulnerable, enumerar samba para tomar acciones, acceder inicialmente con ProFtpd y por último escalada de privilegios con manipulación de variación de ruta.
 *Si durante el writeup la IP objetivo cambia, es porque este ejercicio se llevo a cabo en jornadas diferentes*
 
@@ -106,6 +108,7 @@ Por último la plataforma nos pide la flag que esta en el archivo root.txt en la
 Primera máquina vulnerada!!! Enhorabuena!!
 
 💡**Conclusiones**
+
 Se trata de una máquina de nivel fácil pero es imprescindible tener nociones básicas de algunas cosas especialmente de Linux. Si algún novato le gustaría intentarla le animo a ello y si no entiende algo que lo vaya buscando el porque es así y como ha llegado hasta ahí. La importancia de esta máquina y donde estaría centrado sobre todo el core de aprendizaje sería en dos cosas fundamentales. La primera que cuanto más puertos abiertos o expuestos significa una superficie de ataque más amplia para buscar vulnerabilidades y empezar con un acceso inicial. La segunda la configuración y el hardering de sistemas es esencial, en este caso el hecho de que un directorio custom exponga un permiso SUID es una falta de atención por parte del implementador y podría acabar en la fuga o perdida de datos de gran potencial en un caso real e incluso el compromiso del funcionamiento del sistema.
 
 🧠**Lecciones aprendidas**
