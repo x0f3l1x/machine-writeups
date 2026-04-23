@@ -5,7 +5,7 @@ Se trata de una maquina de nivel fácil de la plataforma Tryhackme, iré haciend
 🔍**Reconocimiento**
 
 Comenzamos accediendo a la plataforma en sí y resolviendo la primera task que es desplegar la maquina vulnerable. La plataforma es bastante amigable y te va guiando paso a paso, ya nos ha dado la IP para en este caso 10.128.174.237.
-![[capt1.png]]
+![[tryhackme/kenobi/img/Captura de pantalla 2026-04-21 220343.png]]
 
 Vamos a abrir la máquina atacante kali linux, acceder a la terminal y hacer un primer ping para ver si conectamos con la máquina objetivo. Nos ha conectado perfectamente asi que vamos a comenzar con un escaneo básico de nmap simplemente el comando nmap 10.128.174.237. 
 
