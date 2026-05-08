@@ -97,8 +97,11 @@ Haciendo un *ls* vemos que hay un archivo llamado *root.txt* y que al abrirlo no
 
 <img width="866" height="362" alt="Pasted image 20260508101123" src="https://github.com/user-attachments/assets/8f3ecdda-b015-420d-bc12-2d596cc4c5a7" />
 <img width="1035" height="510" alt="Pasted image 20260508101112" src="https://github.com/user-attachments/assets/b4256564-3af5-44e2-af58-e476e226396c" />
+
 💡**Conclusiones**  
+
 Esta máquina me ha gustado bastante tiene una dinámica diferente y totalmente paralela de herramientas pero que luego se acaban uniendo con un propósito. Aunque es mi tercera máquina ya voy teniendo un dominio más ligero en especial en cuanto a la etapa de reconocimiento y enumeración porque ya aprendes a observar donde puede estar el vector de ataque de la máquina o lo que podemos hacer. El hecho de usar herramientas diferentes en cada máquina también te enseña a hacer comparativa entre ellas y hacer un buen researching de para que sirve cada una y en que casos debes usarlas y cuales no.
 
 🧠**Lecciones aprendidas**
+
 Muchas veces al igual que en otras máquinas entras en bucle por un fallo tonto, ahí es donde ya vas oliendo que vas a aprender porque una cosa simple que debería de llevarte poco más de 1 minuto de repente se queda estancada y te puede coger casi 30, es aquí donde realmente se aprende, tanto técnicamente como personalmente en cuanto a la paciencia, la resiliencia y la capacidad de observación más allá de lo puramente lógico. Una cosa que me encanta es que aunque no sale en el writeup, muchas veces yo mismo tomo un camino paralelo y voy ejecutando herramientas anteriores para ver como funcionan en esta máquina o si pueden aportar algo más.
